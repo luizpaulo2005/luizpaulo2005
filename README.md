@@ -1,6 +1,6 @@
 ### Olá 👋
 
-Me chamo Luiz Paulo, atualmente estou cursando o Técnico em Informática no IFMS - Campus Nova Andradina,
+Me chamo Luiz Paulo, atualmente estou cursando o Superior em Tecnologia em Análise e Desenvolvimento de Sistemas no IFMS - Campus Nova Andradina,
 possuo um pouco de conhecimento das seguintes linguagens:
 - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 - <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
