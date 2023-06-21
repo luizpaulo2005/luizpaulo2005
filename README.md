@@ -15,6 +15,7 @@ Já trabalhei com os frameworks abaixo:
 - <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
 - <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white">
 - <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
+- <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
 
 ![luizpaulo2005 Status](https://github-readme-stats.vercel.app/api?username=luizpaulo2005&show_icons=true) <br>
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=luizpaulo2005&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
