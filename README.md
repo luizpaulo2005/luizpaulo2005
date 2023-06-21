@@ -16,11 +16,9 @@ Já trabalhei com os frameworks abaixo:
 - <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white">
 - <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
 
-Particularmente, prefiro desenvolver a parte do backend, na qual eu utilizo o ExpressJS, junto ao Prisma, já que essas bibliotecas tornam o serviço mais rápido e funcional sem tantas complicações, abaixo estão os meus stats do GitHub:
-
 ![luizpaulo2005 Status](https://github-readme-stats.vercel.app/api?username=luizpaulo2005&show_icons=true) <br>
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=luizpaulo2005&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+![snake gif](https://github.com/luizpaulo2005/luizpaulo2005/blob/output/github-contribution-grid-snake.svg)
 <!--
 **luizpaulo2005/luizpaulo2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
