@@ -7,7 +7,6 @@ I'm a web developer, studying Systems Analysis and Development at IFMS, I also s
 
 ![luizpaulo2005 Status](https://github-readme-stats.vercel.app/api?username=luizpaulo2005&show_icons=true) <br>
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=luizpaulo2005&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![snake gif](https://github.com/luizpaulo2005/luizpaulo2005/blob/output/github-contribution-grid-snake.svg)
 <!--
 **luizpaulo2005/luizpaulo2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
